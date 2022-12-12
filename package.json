@@ -1,6 +1,6 @@
 {
   "name": "@rainforestqa/eslint-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Custom rules built for Rainforest QA",
   "keywords": [
     "eslint",
